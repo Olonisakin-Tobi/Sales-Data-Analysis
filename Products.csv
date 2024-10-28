@@ -1,0 +1,11 @@
+product_id,product_name,category,price
+1,Laptop,Electronics,900000.00
+2,"Iphone 16",Electronics,1000000.00
+3,shirt,Clothing,19000.00
+4,Jeans,Clothing,30000.00
+5,Shoes,Footwear,6000.00
+6,"cy goes to school",Books,5000.00
+7,ps4,Games,100000.00
+8,Toy,Toys,15000.00
+9,Watch,Accessories,10000.00
+10,"Laptop Bag",Accessories,50000.00
